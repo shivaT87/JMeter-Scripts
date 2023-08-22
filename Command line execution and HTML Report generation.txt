@@ -1,0 +1,12 @@
+jmeter -n -t <test jmx file> -e -o <path to output folder>
+
+jmeter -n -t <test jmx file> -l <test log file> -e -o <path to output folder>
+
+jmeter -n -t "C:\Automation\JMeter\Original jmx project files\Client Member API with POS Event.jmx" -l "C:\Automation\JMeter\Reports\Smokeybones_result4.csv" -e -o "C:\Automation\JMeter\Reports\Smokeybones_Reports4" 
+
+jmeter -n -t "C:\Automation\JMeter\POS-Event(Member Transaction) with CSVFile.jmx" -l "C:\Automation\JMeter\Smokeybones_posEventwithCsv1.csv" -e -o "C:\Automation\JMeter\Smokeybones_posEventwithCsv1"
+
+
+
+jmeter -n -t "C:\Automation\JMeter\Original jmx project files\Client Member API.jmx" -l "C:\Automation\JMeter\Reports\CreateMembers_PROD2_100T.csv" -e -o "C:\Automation\JMeter\Reports\CreateMembers_PROD2_100T"
+

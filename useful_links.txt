@@ -1,0 +1,22 @@
+https://devqa.io/jmeter-send-json-file-as-request-in-body/ (How to send a JSON File as Request in Body)
+https://www.blazemeter.com/blog/jmeter-parameterization-the-complete-guide (JMeter Parameterization - The Complete Guide)
+----------------------------------------------------------------------------------------------------------------------------
+Using Regular Expressions to Extract Tokens and Session IDs to Variables(How to Extract Values from Response Header in JMeter?)
+
+https://www.blazemeter.com/blog/using-regular-expressions-to-extract-tokens-and-session-ids-to-variables
+https://outofmemo.com/index.php/2017/11/01/how-to-extract-values-from-response-header-in-jmeter/
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+https://www.youtube.com/watch?v=SoW2pBak1_Q (JMeter 2021 Masterclass | Step by Step for Beginners | Raghav Pal |)
+
+https://www.youtube.com/watch?v=HOmrBrrGDdg (Mastering JMeter 5.0 : Simple, Once Only, and Loop Controllers | packtpub.com)
+
+https://www.youtube.com/watch?v=jKiZ1efpE5w (JMeter Intermediate Tutorial 7 - How to use Module Controller and Include Controller)
+
+https://www.blazemeter.com/blog/how-use-setup-thread-group-jmeter-when-preparing-load-test (How to Use the SetUp Thread Group in JMeter When Preparing a Load Test)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+https://jmeter.apache.org/usermanual/generating-dashboard.html (HTML Report detailed understanding)
+
